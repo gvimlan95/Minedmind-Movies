@@ -23,4 +23,6 @@ To install all the npm packages in this projects.
 
 To run the program using netlify.
 
+### 4. Screenshot
+
 ![Alt text](/minedmind-movies-screenshot.png?raw=true)
